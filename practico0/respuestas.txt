@@ -1,0 +1,23 @@
+Respuestas del Práctico N0
+1a. ¿Qué valor devuelve su programa si el minuendo es 10 y el
+sustraendo 2?
+El valor es 8
+1b. ¿Qué valor devuelve su programa si los números son 2 *17 * 6?
+E valor es 204
+2. 
+a. ¿Cuál es el área de un rectángulo de base 5cm y altura 3cm?
+El valor es 15
+b. ¿Cuál es el área de un rectángulo de base 12.5cm y altura 5.3cm?
+El valor es 66.25
+3. 
+a. ¿Cuántos grados C son 50 F?
+Son 10
+b. ¿Cuántos grados C son 75 F?
+Son 23.88888888888889
+4. 
+a. ¿Cuál es el promedio entre 5, 7 y 9?
+Es 7
+b. ¿Cuál es el promedio entre -2 , -3, -8?
+Es -4.333333333333333
+c. ¿Cuál es el promedio entre -1.2, 5.3, -3.3?
+Es 0.2666666666666666
